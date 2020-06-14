@@ -1,0 +1,2 @@
+# GitHubUpdateApp
+Checking squirrel update
